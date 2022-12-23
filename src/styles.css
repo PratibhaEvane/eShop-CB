@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+}
+.header {
+  height: 100px;
+  width: 100%;
+  background-image: linear-gradient(to left, #a52a2a, bisque);
+  position: absolute;
+  top: 0px;
+}
+.footer {
+  height: 100px;
+  width: 100%;
+  background-image: linear-gradient(to left, #a52a2a, bisque);
+  position: absolute;
+  bottom: 0px;
+}

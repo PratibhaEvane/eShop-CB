@@ -1,0 +1,17 @@
+.flex {
+  display: flex;
+}
+
+.admin-login {
+  position: absolute;
+  right: 10px;
+  top: 25px;
+  font-size: 20px;
+}
+.admin-login a {
+  text-decoration: none;
+  color: black;
+}
+.admin-login a:hover {
+  color: green;
+}
